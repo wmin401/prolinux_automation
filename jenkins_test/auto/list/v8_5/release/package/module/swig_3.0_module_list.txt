@@ -1,0 +1,4 @@
+[swig:3.0]
+swig-3.0.12-19.module+el8+195+1432d076.x86_64
+swig-doc-3.0.12-19.module+el8+195+1432d076.noarch
+swig-gdb-3.0.12-19.module+el8+195+1432d076.x86_64

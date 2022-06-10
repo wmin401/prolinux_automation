@@ -1,0 +1,5 @@
+[perl-DBD-Pg:3.7]
+Conditions=(R)perl-DBI,(e)perl-DBI:1.641,(R)perl,(e)perl:5.24,
+perl-DBD-Pg-0:3.7.4-4.module+el8+195+cc611962.x86_64
+perl-DBD-Pg-debuginfo-0:3.7.4-4.module+el8+195+cc611962.x86_64
+perl-DBD-Pg-debugsource-0:3.7.4-4.module+el8+195+cc611962.x86_64

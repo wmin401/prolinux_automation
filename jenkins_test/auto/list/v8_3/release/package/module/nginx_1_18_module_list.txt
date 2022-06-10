@@ -1,0 +1,9 @@
+[nginx:1.18]
+nginx-1.18.0-2.module+el8+195+506ee6f1.x86_64
+nginx-all-modules-1.18.0-2.module+el8+195+506ee6f1.noarch
+nginx-filesystem-1.18.0-2.module+el8+195+506ee6f1.noarch
+nginx-mod-http-image-filter-1.18.0-2.module+el8+195+506ee6f1.x86_64
+nginx-mod-http-perl-1.18.0-2.module+el8+195+506ee6f1.x86_64
+nginx-mod-http-xslt-filter-1.18.0-2.module+el8+195+506ee6f1.x86_64
+nginx-mod-mail-1.18.0-2.module+el8+195+506ee6f1.x86_64
+nginx-mod-stream-1.18.0-2.module+el8+195+506ee6f1.x86_64

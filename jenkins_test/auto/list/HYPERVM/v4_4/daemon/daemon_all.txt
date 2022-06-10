@@ -1,0 +1,6 @@
+/usr/lib/systemd/system/collectd.service
+/usr/lib/systemd/system/glustereventsd.service
+/usr/lib/systemd/system/glusterd.service
+/usr/lib/systemd/system/glusterfssharedstorage.service
+/usr/lib/systemd/system/gluster-ta-volume.service
+/usr/lib/systemd/system/imgbase-setup.service

@@ -1,0 +1,15 @@
+[postgresql:10]
+Conditions=(r)postgresql-*,(r)perl-libs
+postgresql-10.14-1.module+el8+195+29e10f58.x86_64
+postgresql-contrib-10.14-1.module+el8+195+29e10f58.x86_64
+postgresql-docs-10.14-1.module+el8+195+29e10f58.x86_64
+postgresql-plperl-10.14-1.module+el8+195+29e10f58.x86_64
+postgresql-plpython3-10.14-1.module+el8+195+29e10f58.x86_64
+postgresql-pltcl-10.14-1.module+el8+195+29e10f58.x86_64
+postgresql-server-10.14-1.module+el8+195+29e10f58.x86_64
+postgresql-server-devel-10.14-1.module+el8+195+29e10f58.x86_64
+postgresql-static-10.14-1.module+el8+195+29e10f58.x86_64
+postgresql-test-10.14-1.module+el8+195+29e10f58.x86_64
+postgresql-test-rpm-macros-10.14-1.module+el8+195+29e10f58.x86_64
+postgresql-upgrade-10.14-1.module+el8+195+29e10f58.x86_64
+postgresql-upgrade-devel-10.14-1.module+el8+195+29e10f58.x86_64

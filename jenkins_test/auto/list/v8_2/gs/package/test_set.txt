@@ -1,0 +1,17 @@
+apcu-panel-5.1.12-2.module+el8+66+a1f1f7ed.noarch
+git-instaweb-2.18.2-1.el8_1.x86_64
+mailman-2.1.29-4.module+el8+122+1211c096.x86_64
+mod_auth_gssapi-1.6.1-6.el8.x86_64
+mod_auth_mellon-0.14.0-11.el8.x86_64
+mod_auth_mellon-diagnostics-0.14.0-11.el8.x86_64
+mod_authnz_pam-1.1.0-7.el8.x86_64
+mod_fcgid-2.3.9-16.el8.x86_64
+mod_intercept_form_submit-1.1.0-5.el8.x86_64
+mod_lookup_identity-1.0.0-4.el8.x86_64
+mod_security-2.9.2-8.el8.x86_64
+mod_security_crs-3.0.0-5.el8.noarch
+mod_security-mlogc-2.9.2-8.el8.x86_64
+php-7.2.24-1.module+el8+66+a1f1f7ed.x86_64
+php-fpm-7.2.24-1.module+el8+66+a1f1f7ed.x86_64
+php-pear-1.10.5-9.module+el8+66+a1f1f7ed.noarch
+python38-mod_wsgi-4.6.8-3.module+el8+67+5e195c26.x86_64

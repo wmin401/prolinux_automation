@@ -1,0 +1,2 @@
+/usr/lib/systemd/system/abrt-pstoreoops.service
+/usr/lib/systemd/system/dmraid-activation.service

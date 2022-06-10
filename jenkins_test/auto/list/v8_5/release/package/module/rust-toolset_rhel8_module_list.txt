@@ -1,0 +1,17 @@
+[rust-toolset:rhel8]
+Conditions=(R)llvm-toolset,(e)llvm-toolset:rhel8,
+cargo-1.54.0-2.module+el8+4+110177fa.x86_64
+cargo-doc-1.54.0-2.module+el8+4+110177fa.noarch
+clippy-1.54.0-2.module+el8+4+110177fa.x86_64
+rls-1.54.0-2.module+el8+4+110177fa.x86_64
+rust-1.54.0-2.module+el8+4+110177fa.x86_64
+rust-analysis-1.54.0-2.module+el8+4+110177fa.x86_64
+rust-debugger-common-1.54.0-2.module+el8+4+110177fa.noarch
+rust-doc-1.54.0-2.module+el8+4+110177fa.x86_64
+rust-gdb-1.54.0-2.module+el8+4+110177fa.noarch
+rust-lldb-1.54.0-2.module+el8+4+110177fa.noarch
+rust-src-1.54.0-2.module+el8+4+110177fa.noarch
+rust-std-static-1.54.0-2.module+el8+4+110177fa.x86_64
+rust-std-static-wasm32-unknown-unknown-1.54.0-2.module+el8+4+110177fa.x86_64
+rust-toolset-1.54.0-1.module+el8+4+110177fa.x86_64
+rustfmt-1.54.0-2.module+el8+4+110177fa.x86_64

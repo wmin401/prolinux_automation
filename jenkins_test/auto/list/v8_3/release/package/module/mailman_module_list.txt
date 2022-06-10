@@ -1,0 +1,2 @@
+[mailman]
+mailman-2.1.29-10.module+el8+67+6a20adaf.x86_64

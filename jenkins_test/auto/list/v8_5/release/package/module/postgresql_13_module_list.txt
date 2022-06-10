@@ -1,0 +1,17 @@
+[postgresql:13]
+pg_repack-1.4.6-3.module+el8+120+afa7f165.x86_64
+pgaudit-1.5.0-1.module+el8+120+afa7f165.x86_64
+postgres-decoderbufs-0.10.0-2.module+el8+120+afa7f165.x86_64
+postgresql-13.3-2.module+el8+120+afa7f165.x86_64
+postgresql-contrib-13.3-2.module+el8+120+afa7f165.x86_64
+postgresql-docs-13.3-2.module+el8+120+afa7f165.x86_64
+postgresql-plperl-13.3-2.module+el8+120+afa7f165.x86_64
+postgresql-plpython3-13.3-2.module+el8+120+afa7f165.x86_64
+postgresql-pltcl-13.3-2.module+el8+120+afa7f165.x86_64
+postgresql-server-13.3-2.module+el8+120+afa7f165.x86_64
+postgresql-server-devel-13.3-2.module+el8+120+afa7f165.x86_64
+postgresql-static-13.3-2.module+el8+120+afa7f165.x86_64
+postgresql-test-13.3-2.module+el8+120+afa7f165.x86_64
+postgresql-test-rpm-macros-13.3-2.module+el8+120+afa7f165.noarch
+postgresql-upgrade-13.3-2.module+el8+120+afa7f165.x86_64
+postgresql-upgrade-devel-13.3-2.module+el8+120+afa7f165.x86_64

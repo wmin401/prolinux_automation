@@ -1,0 +1,16 @@
+[mariadb:10.3]
+Judy-1.0.5-18.module+el8+21+283407e5.x86_64
+galera-25.3.32-1.module+el8+21+283407e5.x86_64
+mariadb-10.3.28-1.module+el8+21+283407e5.x86_64
+mariadb-backup-10.3.28-1.module+el8+21+283407e5.x86_64
+mariadb-common-10.3.28-1.module+el8+21+283407e5.x86_64
+mariadb-devel-10.3.28-1.module+el8+21+283407e5.x86_64
+mariadb-embedded-10.3.28-1.module+el8+21+283407e5.x86_64
+mariadb-embedded-devel-10.3.28-1.module+el8+21+283407e5.x86_64
+mariadb-errmsg-10.3.28-1.module+el8+21+283407e5.x86_64
+mariadb-gssapi-server-10.3.28-1.module+el8+21+283407e5.x86_64
+mariadb-oqgraph-engine-10.3.28-1.module+el8+21+283407e5.x86_64
+mariadb-server-10.3.28-1.module+el8+21+283407e5.x86_64
+mariadb-server-galera-10.3.28-1.module+el8+21+283407e5.x86_64
+mariadb-server-utils-10.3.28-1.module+el8+21+283407e5.x86_64
+mariadb-test-10.3.28-1.module+el8+21+283407e5.x86_64

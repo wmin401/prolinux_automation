@@ -1,0 +1,8 @@
+[mod_auth_openidc:2.3]
+cjose-0:0.6.1-2.module+el8+3+2bca43d9.x86_64
+cjose-debuginfo-0:0.6.1-2.module+el8+3+2bca43d9.x86_64
+cjose-debugsource-0:0.6.1-2.module+el8+3+2bca43d9.x86_64
+cjose-devel-0:0.6.1-2.module+el8+3+2bca43d9.x86_64
+mod_auth_openidc-0:2.3.7-8.module+el8+3+2bca43d9.x86_64
+mod_auth_openidc-debuginfo-0:2.3.7-8.module+el8+3+2bca43d9.x86_64
+mod_auth_openidc-debugsource-0:2.3.7-8.module+el8+3+2bca43d9.x86_64

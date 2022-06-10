@@ -1,0 +1,4 @@
+[perl-IO-Socket-SSL:2.066]
+Conditions=(R)perl,(e)perl:5.26,
+perl-IO-Socket-SSL-2.066-4.module+el8+195+061d4858.noarch
+perl-Net-SSLeay-1.88-1.module+el8+195+061d4858.x86_64

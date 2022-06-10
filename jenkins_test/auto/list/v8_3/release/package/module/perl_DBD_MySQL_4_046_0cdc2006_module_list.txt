@@ -1,0 +1,3 @@
+[perl-DBD-MySQL:4.046]
+Conditions=(r)perl-libs,(R)perl:5.24,(e)perl:5.24
+perl-DBD-MySQL-4.046-3.module+el8+195+05299da7.x86_64

@@ -1,0 +1,3 @@
+[perl-FCGI:0.78]
+Conditions=(r)perl-libs,(R)perl:5.30,(e)perl:5.30
+perl-FCGI-0.78-11.module+el8+195+65d45ca4.x86_64

@@ -1,0 +1,4 @@
+/usr/lib/systemd/system/cockpit-wsinstance-http-redirect.socket
+/usr/lib/systemd/system/cockpit-wsinstance-http.service
+/usr/lib/systemd/system/cockpit-wsinstance-http.socket
+/usr/lib/systemd/system/cockpit-wsinstance-https-factory.socket

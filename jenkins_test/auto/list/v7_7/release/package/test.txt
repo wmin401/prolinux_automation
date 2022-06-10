@@ -1,0 +1,2 @@
+awscli-1.14.28-5.el7.noarch
+booth-1.0-7.ef769ef.git.el7.x86_64

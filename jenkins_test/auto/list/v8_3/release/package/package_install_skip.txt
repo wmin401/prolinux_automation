@@ -1,0 +1,1 @@
+python3-subscription-manager-rhsm-1.27.16-1.el8.x86_64

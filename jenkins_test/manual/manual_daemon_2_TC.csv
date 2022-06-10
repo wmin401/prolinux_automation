@@ -1,0 +1,18 @@
+version;name;cmd;result
+v8_2;daemon test : abrt-vmcore.service;touch /var/crash/test && systemctl start abrtd.service && systemctl start abrt-vmcore.service && systemctl status abrt-vmcore.service;Active: active
+v8_2;daemon test : abrt-vmcore.service;rm -rf /var/crash/test && systemctl stop abrtd.service && systemctl stop abrt-vmcore.service && systemctl status abrt-vmcore.service;Active: inactive
+v8_2;daemon test : bacula-dir.service;systemctl start bacula-dir.service && systemctl stop bacula-dir.service && journalctl -b -u bacula-dir.service;code=exited, status=15
+v7_9;abrt-ccpp.service;systemctl start abrtd.service && systemctl start abrt-ccpp.service && systemctl status abrt-ccpp.service;Active: active
+v7_9;abrt-ccpp.service;systemctl stop abrt-ccpp.service && systemctl status abrt-ccpp.service;Active: inactive
+v7_9;abrt-oops.service;systemctl start abrtd.service && systemctl start abrt-oops.service && systemctl status abrt-oops.service;Active: active
+v7_9;abrt-oops.service;systemctl stop abrt-oops.service && systemctl status abrt-oops.service;Active: inactive
+v7_9;abrt-vmcore.service;systemctl start abrtd.service && touch /var/crash/test && systemctl start abrt-vmcore.service && systemctl status abrt-vmcore.service;Active: active
+v7_9;abrt-vmcore.service;systemctl stop abrt-vmcore.service && rm -rf /var/crash/test && systemctl status abrt-vmcore.service;Active: inactive
+v7_9;cloud-config.service;mv /etc/cloud/cloud-init.disabled /etc/cloud/cloud-init.disabled.bak && systemctl start cloud-config.service && systemctl status cloud-config.service;Active: active
+v7_9;cloud-config.service;systemctl stop cloud-config.service && mv /etc/cloud/cloud-init.disabled.bak /etc/cloud/cloud-init.disabled && systemctl status cloud-config.service;Active: inactive
+v7_9;cloud-final.service;mv /etc/cloud/cloud-init.disabled /etc/cloud/cloud-init.disabled.bak && systemctl start cloud-final.service && systemctl status cloud-final.service;Active: active
+v7_9;cloud-final.service;systemctl stop cloud-final.service && mv /etc/cloud/cloud-init.disabled.bak /etc/cloud/cloud-init.disabled && systemctl status cloud-final.service;Active: inactive
+v7_9;dbus.service;systemctl start dbus.service && systemctl status dbus.service;Active: active
+v7_9;dbus.service;systemctl stop dbus.socket && systemctl status dbus.service;Active: inactive
+v7_9;hypervfcopyd.service;mkdir -p /dev/vmbus/ && touch /dev/vmbus/hv_fcopy && systemctl start hypervfcopyd.service && sleep 1 && systemctl status hypervfcopyd.service;Active: active
+v7_9;hypervfcopyd.service;systemctl stop hypervfcopyd.service && rm -rf /dev/vmbus/ && systemctl status hypervfcopyd.service;Active: inactive

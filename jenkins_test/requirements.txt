@@ -1,0 +1,7 @@
+snips-nlu
+setuptools_rust
+paramiko
+graphql-core==2.2.1
+graphene==2.1.8
+bs4
+pandas

@@ -1,0 +1,17 @@
+/usr/bin/engine-cleanup
+/usr/bin/engine-setup
+/usr/share/ovirt-engine/setup/bin/ovirt-engine-remove
+/usr/share/ovirt-engine/setup/bin/ovirt-engine-rename
+/usr/share/ovirt-engine/setup/bin/ovirt-engine-setup
+/usr/share/ovirt-engine/bin/java-home
+/usr/share/ovirt-engine/setup/bin/bundle-ovirt-engine-health
+/usr/share/ovirt-engine/setup/bin/ovirt-engine-health
+/usr/bin/engine-upgrade-check
+/usr/share/ovirt-engine/setup/bin/ovirt-engine-upgrade-check
+/usr/share/ovirt-engine/setup/bin/ovirt-engine-provisiondb
+/usr/bin/engine-config
+/usr/bin/engine-vacuum
+/usr/bin/ovirt-engine-extensions-tool
+/usr/bin/ovirt-register-sso-client-tool
+/usr/share/ovirt-engine/bin/vdsm_to_network_name_map
+/usr/bin/engine-backup

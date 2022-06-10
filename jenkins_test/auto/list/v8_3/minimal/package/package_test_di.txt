@@ -1,0 +1,9 @@
+coreutils-single-8.30-8.el8.x86_64
+fwupdate-11-3.0.2.el8.x86_64
+kernel-debug-4.18.0-240.el8.x86_64
+kernel-debug-devel-4.18.0-240.el8.x86_64
+kernel-doc-4.18.0-240.el8.noarch
+libcurl-minimal-7.61.1-14.el8.x86_64
+perl-DBD-SQLite-1.58-2.el8.x86_64
+perl-DBI-1.641-1.el8.x86_64
+tpm2-abrmd-2.1.1-3.el8.x86_64

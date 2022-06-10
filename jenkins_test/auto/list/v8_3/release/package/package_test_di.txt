@@ -1,0 +1,7 @@
+anaconda-33.16.3.26-1.0.6.el8.x86_64
+anaconda-core-33.16.3.26-1.0.6.el8.x86_64
+anaconda-dracut-33.16.3.26-1.0.6.el8.x86_64
+anaconda-gui-33.16.3.26-1.0.6.el8.x86_64
+anaconda-install-env-deps-33.16.3.26-1.0.6.el8.x86_64
+anaconda-tui-33.16.3.26-1.0.6.el8.x86_64
+anaconda-widgets-33.16.3.26-1.0.6.el8.x86_64

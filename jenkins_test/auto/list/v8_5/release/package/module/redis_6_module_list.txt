@@ -1,0 +1,4 @@
+[redis:6]
+redis-6.0.9-5.module+el8+2+9e504aa7.x86_64
+redis-devel-6.0.9-5.module+el8+2+9e504aa7.x86_64
+redis-doc-6.0.9-5.module+el8+2+9e504aa7.noarch

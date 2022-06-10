@@ -1,0 +1,4 @@
+version;name;cmd;result
+v8_3;abrt-vmcore.service;touch /var/crash/test && systemctl start abrtd.service && systemctl start abrt-vmcore.service && systemctl status abrt-vmcore.service;Active: active
+v8_3;abrt-vmcore.service;rm -rf /var/crash/test && systemctl stop abrtd.service && systemctl stop abrt-vmcore.service && systemctl status abrt-vmcore.service;Active: inactive
+v8_3;bacula-dir.service;systemctl start bacula-dir.service && systemctl stop bacula-dir.service && journalctl -b -u bacula-dir.service;code=exited, status=15

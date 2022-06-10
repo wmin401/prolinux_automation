@@ -1,0 +1,9 @@
+[inkscape:0.92.3]
+Conditions=(R)python27,(e)python27:2.7,
+inkscape-0:0.92.3-13.module+el8+4+e3cbbb31.x86_64
+inkscape-debuginfo-0:0.92.3-13.module+el8+4+e3cbbb31.x86_64
+inkscape-debugsource-0:0.92.3-13.module+el8+4+e3cbbb31.x86_64
+inkscape-docs-0:0.92.3-13.module+el8+4+e3cbbb31.x86_64
+inkscape-view-0:0.92.3-13.module+el8+4+e3cbbb31.x86_64
+inkscape-view-debuginfo-0:0.92.3-13.module+el8+4+e3cbbb31.x86_64
+python2-scour-0:0.35-9.module+el8+4+e3cbbb31.noarch

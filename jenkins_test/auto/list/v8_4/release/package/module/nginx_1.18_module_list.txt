@@ -1,0 +1,16 @@
+[nginx:1.18]
+nginx-1:1.18.0-3.module+el8+3+4f0916b4.x86_64
+nginx-all-modules-1:1.18.0-3.module+el8+3+4f0916b4.noarch
+nginx-debuginfo-1:1.18.0-3.module+el8+3+4f0916b4.x86_64
+nginx-debugsource-1:1.18.0-3.module+el8+3+4f0916b4.x86_64
+nginx-filesystem-1:1.18.0-3.module+el8+3+4f0916b4.noarch
+nginx-mod-http-image-filter-1:1.18.0-3.module+el8+3+4f0916b4.x86_64
+nginx-mod-http-image-filter-debuginfo-1:1.18.0-3.module+el8+3+4f0916b4.x86_64
+nginx-mod-http-perl-1:1.18.0-3.module+el8+3+4f0916b4.x86_64
+nginx-mod-http-perl-debuginfo-1:1.18.0-3.module+el8+3+4f0916b4.x86_64
+nginx-mod-http-xslt-filter-1:1.18.0-3.module+el8+3+4f0916b4.x86_64
+nginx-mod-http-xslt-filter-debuginfo-1:1.18.0-3.module+el8+3+4f0916b4.x86_64
+nginx-mod-mail-1:1.18.0-3.module+el8+3+4f0916b4.x86_64
+nginx-mod-mail-debuginfo-1:1.18.0-3.module+el8+3+4f0916b4.x86_64
+nginx-mod-stream-1:1.18.0-3.module+el8+3+4f0916b4.x86_64
+nginx-mod-stream-debuginfo-1:1.18.0-3.module+el8+3+4f0916b4.x86_64

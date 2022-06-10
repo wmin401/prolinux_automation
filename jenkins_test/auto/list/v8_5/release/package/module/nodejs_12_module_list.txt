@@ -1,0 +1,8 @@
+[nodejs:12]
+nodejs-12.22.5-1.module+el8+2+47ad4b69.x86_64
+nodejs-devel-12.22.5-1.module+el8+2+47ad4b69.x86_64
+nodejs-docs-12.22.5-1.module+el8+2+47ad4b69.noarch
+nodejs-full-i18n-12.22.5-1.module+el8+2+47ad4b69.x86_64
+nodejs-nodemon-2.0.3-1.module+el8+2+47ad4b69.noarch
+nodejs-packaging-17-3.module+el8+2+47ad4b69.noarch
+npm-6.14.14-1.12.22.5.1.module+el8+2+47ad4b69.x86_64

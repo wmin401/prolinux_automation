@@ -1,0 +1,8 @@
+[389-ds]
+Conditions=(r)perl-libs,(R)perl:5.26,(e)perl:5.26,(r)389-ds-base-*
+389-ds-base-1.4.3.8-5.module+el8+67+28892603.x86_64
+389-ds-base-devel-1.4.3.8-5.module+el8+67+28892603.x86_64
+389-ds-base-legacy-tools-1.4.3.8-5.module+el8+67+28892603.x86_64
+389-ds-base-libs-1.4.3.8-5.module+el8+67+28892603.x86_64
+389-ds-base-snmp-1.4.3.8-5.module+el8+67+28892603.x86_64
+python3-lib389-1.4.3.8-5.module+el8+67+28892603.noarch

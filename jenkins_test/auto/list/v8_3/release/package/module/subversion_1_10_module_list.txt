@@ -1,0 +1,12 @@
+[subversion:1.10]
+Conditions=(e)httpd:2.4,(e)swig:3.0,(R)perl:5.26,(e)perl:5.26,(r)perl-libs
+libserf-1.3.9-9.module+el8+195+a1b71b2d.x86_64
+mod_dav_svn-1.10.2-3.module+el8+195+a1b71b2d.x86_64
+subversion-1.10.2-3.module+el8+195+a1b71b2d.x86_64
+subversion-devel-1.10.2-3.module+el8+195+a1b71b2d.x86_64
+subversion-gnome-1.10.2-3.module+el8+195+a1b71b2d.x86_64
+subversion-javahl-1.10.2-3.module+el8+195+a1b71b2d.noarch
+subversion-libs-1.10.2-3.module+el8+195+a1b71b2d.x86_64
+subversion-perl-1.10.2-3.module+el8+195+a1b71b2d.x86_64
+subversion-tools-1.10.2-3.module+el8+195+a1b71b2d.x86_64
+utf8proc-2.1.1-5.module+el8+195+a1b71b2d.x86_64

@@ -1,0 +1,7 @@
+/usr/lib/systemd/system/dirsrv.target
+/usr/lib/systemd/system/dirsrv@.service
+/usr/lib/systemd/system/abrtd.service
+/usr/lib/systemd/system/abrt-ccpp.service
+/usr/lib/systemd/system/abrt-oops.service
+/usr/lib/systemd/system/abrt-pstoreoops.service
+/usr/lib/systemd/system/abrt-vmcore.service

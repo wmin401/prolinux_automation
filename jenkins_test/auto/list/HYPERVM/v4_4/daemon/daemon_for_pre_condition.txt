@@ -1,0 +1,3 @@
+/usr/lib/systemd/system/momd.service
+/usr/lib/systemd/system/vdsmd.service
+/usr/lib/systemd/system/xen-watchdog.service

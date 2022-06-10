@@ -1,0 +1,16 @@
+[pki-core:10.6]
+Conditions=(R)pki-deps,(e)pki-deps:10.6,
+jss-4.9.1-1.module+el8+117+3d3f92d1.x86_64
+jss-javadoc-4.9.1-1.module+el8+117+3d3f92d1.x86_64
+ldapjdk-4.23.0-1.module+el8+117+3d3f92d1.noarch
+ldapjdk-javadoc-4.23.0-1.module+el8+117+3d3f92d1.noarch
+pki-acme-10.11.2-2.module+el8+117+3d3f92d1.noarch
+pki-base-10.11.2-2.module+el8+117+3d3f92d1.noarch
+pki-base-java-10.11.2-2.module+el8+117+3d3f92d1.noarch
+pki-ca-10.11.2-2.module+el8+117+3d3f92d1.noarch
+pki-kra-10.11.2-2.module+el8+117+3d3f92d1.noarch
+pki-server-10.11.2-2.module+el8+117+3d3f92d1.noarch
+pki-symkey-10.11.2-2.module+el8+117+3d3f92d1.x86_64
+pki-tools-10.11.2-2.module+el8+117+3d3f92d1.x86_64
+python3-pki-10.11.2-2.module+el8+117+3d3f92d1.noarch
+tomcatjss-7.7.0-1.module+el8+117+3d3f92d1.noarch

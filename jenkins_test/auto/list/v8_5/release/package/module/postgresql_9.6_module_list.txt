@@ -1,0 +1,12 @@
+[postgresql:9.6]
+postgresql-9.6.22-1.module+el8+121+fb14d162.x86_64
+postgresql-contrib-9.6.22-1.module+el8+121+fb14d162.x86_64
+postgresql-docs-9.6.22-1.module+el8+121+fb14d162.x86_64
+postgresql-plperl-9.6.22-1.module+el8+121+fb14d162.x86_64
+postgresql-plpython3-9.6.22-1.module+el8+121+fb14d162.x86_64
+postgresql-pltcl-9.6.22-1.module+el8+121+fb14d162.x86_64
+postgresql-server-9.6.22-1.module+el8+121+fb14d162.x86_64
+postgresql-server-devel-9.6.22-1.module+el8+121+fb14d162.x86_64
+postgresql-static-9.6.22-1.module+el8+121+fb14d162.x86_64
+postgresql-test-9.6.22-1.module+el8+121+fb14d162.x86_64
+postgresql-test-rpm-macros-9.6.22-1.module+el8+121+fb14d162.x86_64

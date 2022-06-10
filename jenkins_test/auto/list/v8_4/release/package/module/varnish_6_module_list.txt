@@ -1,0 +1,7 @@
+[varnish:6]
+varnish-0:6.0.6-2.module+el8+195+a5f9e108.x86_64
+varnish-devel-0:6.0.6-2.module+el8+195+a5f9e108.x86_64
+varnish-docs-0:6.0.6-2.module+el8+195+a5f9e108.x86_64
+varnish-modules-0:0.15.0-5.module+el8+195+a5f9e108.x86_64
+varnish-modules-debuginfo-0:0.15.0-5.module+el8+195+a5f9e108.x86_64
+varnish-modules-debugsource-0:0.15.0-5.module+el8+195+a5f9e108.x86_64

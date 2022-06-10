@@ -1,0 +1,16 @@
+.gitkeep
+
+auto/found_pkg.txt
+auto/found_cmd.txt
+auto/found_daemon.txt
+auto/__common__/__parameter__.py
+
+results/
+auto/__common__/__pycache__
+auto/__pycache__/
+
+
+manual/testcase/manual_cmd_TC_copy.csv
+
+manual/linux_regression/__pycache__/
+manual/__pycache__/

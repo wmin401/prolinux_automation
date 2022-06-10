@@ -1,0 +1,13 @@
+anaconda-29.19.1.13-1.0.2.el8.x86_64
+anaconda-core-29.19.1.13-1.0.2.el8.x86_64
+anaconda-dracut-29.19.1.13-1.0.2.el8.x86_64
+anaconda-gui-29.19.1.13-1.0.2.el8.x86_64
+anaconda-install-env-deps-29.19.1.13-1.0.2.el8.x86_64
+anaconda-tui-29.19.1.13-1.0.2.el8.x86_64
+anaconda-widgets-29.19.1.13-1.0.2.el8.x86_64
+libnma-1.8.22-2.0.1.el8.x86_64
+network-manager-applet-1.8.22-2.0.1.el8.x86_64
+nm-connection-editor-1.8.22-2.0.1.el8.x86_64
+prolinux-release-8.1-1.6.el8.x86_64
+sos-3.7-4.0.3.el8.noarch
+sos-audit-3.7-4.0.3.el8.noarch

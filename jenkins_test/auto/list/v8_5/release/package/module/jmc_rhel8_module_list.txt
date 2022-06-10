@@ -1,0 +1,15 @@
+[jmc:rhel8]
+HdrHistogram-2.1.11-3.module+el8+18+b6ee7c26.noarch
+HdrHistogram-javadoc-2.1.11-3.module+el8+18+b6ee7c26.noarch
+directory-maven-plugin-0.3.1-2.module+el8+18+b6ee7c26.noarch
+directory-maven-plugin-javadoc-0.3.1-2.module+el8+18+b6ee7c26.noarch
+ee4j-parent-1.0.1-2.module+el8+18+b6ee7c26.noarch
+jaf-1.2.1-5.module+el8+18+b6ee7c26.noarch
+jaf-javadoc-1.2.1-5.module+el8+18+b6ee7c26.noarch
+jmc-8.0.1-4.module+el8+18+b6ee7c26.x86_64
+jmc-core-8.0.1-2.module+el8+18+b6ee7c26.noarch
+jmc-core-javadoc-8.0.1-2.module+el8+18+b6ee7c26.noarch
+lz4-java-1.7.1-14.module+el8+18+b6ee7c26.x86_64
+lz4-java-javadoc-1.7.1-14.module+el8+18+b6ee7c26.noarch
+owasp-java-encoder-1.2.2-3.module+el8+18+b6ee7c26.noarch
+owasp-java-encoder-javadoc-1.2.2-3.module+el8+18+b6ee7c26.noarch

@@ -1,0 +1,6 @@
+[redis:5]
+redis-0:5.0.3-2.module+el8+195+2e933f16.x86_64
+redis-debuginfo-0:5.0.3-2.module+el8+195+2e933f16.x86_64
+redis-debugsource-0:5.0.3-2.module+el8+195+2e933f16.x86_64
+redis-devel-0:5.0.3-2.module+el8+195+2e933f16.x86_64
+redis-doc-0:5.0.3-2.module+el8+195+2e933f16.noarch

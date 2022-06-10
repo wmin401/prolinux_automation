@@ -1,0 +1,15 @@
+[rust-toolset]
+cargo-1.45.2-1.module+el8+195+fcb48b0e.x86_64
+cargo-doc-1.45.2-1.module+el8+195+fcb48b0e.noarch
+clippy-1.45.2-1.module+el8+195+fcb48b0e.x86_64
+rls-1.45.2-1.module+el8+195+fcb48b0e.x86_64
+rust-1.45.2-1.module+el8+195+fcb48b0e.x86_64
+rust-analysis-1.45.2-1.module+el8+195+fcb48b0e.x86_64
+rust-debugger-common-1.45.2-1.module+el8+195+fcb48b0e.noarch
+rust-doc-1.45.2-1.module+el8+195+fcb48b0e.x86_64
+rustfmt-1.45.2-1.module+el8+195+fcb48b0e.x86_64
+rust-gdb-1.45.2-1.module+el8+195+fcb48b0e.noarch
+rust-lldb-1.45.2-1.module+el8+195+fcb48b0e.noarch
+rust-src-1.45.2-1.module+el8+195+fcb48b0e.noarch
+rust-std-static-1.45.2-1.module+el8+195+fcb48b0e.x86_64
+rust-toolset-1.45.2-1.module+el8+195+fcb48b0e.x86_64

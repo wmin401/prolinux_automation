@@ -1,0 +1,6 @@
+/usr/lib/systemd/system/abrt-ccpp.service
+/usr/lib/systemd/system/abrt-journal-core.service
+/usr/lib/systemd/system/abrt-oops.service
+/usr/lib/systemd/system/abrt-xorg.service
+/usr/lib/systemd/system/amanda-udp.service
+/usr/lib/systemd/system/cups.socket

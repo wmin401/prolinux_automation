@@ -1,0 +1,4 @@
+[squid]
+libecap-1.0.1-2.module+el8+195+4609499e.x86_64
+libecap-devel-1.0.1-2.module+el8+195+4609499e.x86_64
+squid-4.11-3.module+el8+195+4609499e.x86_64

@@ -1,0 +1,6 @@
+[mercurial:4.8]
+Conditions=(R)python27,(e)python27:2.7,
+mercurial-0:4.8.2-1.module+el8+67+fcd680b5.x86_64
+mercurial-debuginfo-0:4.8.2-1.module+el8+67+fcd680b5.x86_64
+mercurial-debugsource-0:4.8.2-1.module+el8+67+fcd680b5.x86_64
+mercurial-hgk-0:4.8.2-1.module+el8+67+fcd680b5.x86_64

@@ -1,0 +1,2 @@
+/usr/lib64/bltk/bin/bltk_calc
+/usr/lib64/bltk/bin/bltk_get_realpath

@@ -1,0 +1,14 @@
+/usr/bin/firefox
+/usr/sbin/apachectl
+/usr/sbin/fcgistarter
+/usr/sbin/htcacheclean
+/usr/sbin/httpd
+/usr/sbin/rotatelogs
+/usr/sbin/suexec
+/usr/bin/apxs
+/usr/bin/ab
+/usr/bin/htdbm
+/usr/bin/htdigest
+/usr/bin/htpasswd
+/usr/bin/httxt2dbm
+/usr/bin/logresolve

@@ -1,0 +1,14 @@
+/usr/lib/systemd/system/chrony-dnssrv@_ntp._udp.test.service
+/usr/lib/systemd/system/chrony-dnssrv@_ntp._udp.test.timer
+/usr/lib/systemd/system/lvm2-pvscan@sda.service
+/usr/lib/systemd/system/autovt@sda.service
+/usr/lib/systemd/system/container-getty@1.service
+/usr/lib/systemd/system/getty@test.service
+/usr/lib/systemd/system/serial-getty@nvme0n1.service
+/usr/lib/systemd/system/systemd-coredump@.service
+/usr/lib/systemd/system/systemd-fsck@.service
+/usr/lib/systemd/system/user-runtime-dir@1.service
+/usr/lib/systemd/system/user@0.service
+/usr/lib/systemd/system/systemd-backlight@.service
+/usr/lib/systemd/system/systemd-hibernate-resume@.service
+/usr/lib/systemd/system/teamd@test.service

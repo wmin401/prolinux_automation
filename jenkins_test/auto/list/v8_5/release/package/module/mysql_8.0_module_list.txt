@@ -1,0 +1,11 @@
+[mysql:8.0]
+mecab-0.996-1.module+el8+2+685cfb38.9.x86_64
+mecab-ipadic-2.7.0.20070801-16.module+el8+2+685cfb38.x86_64
+mecab-ipadic-EUCJP-2.7.0.20070801-16.module+el8+2+685cfb38.x86_64
+mysql-8.0.26-1.module+el8+2+685cfb38.x86_64
+mysql-common-8.0.26-1.module+el8+2+685cfb38.x86_64
+mysql-devel-8.0.26-1.module+el8+2+685cfb38.x86_64
+mysql-errmsg-8.0.26-1.module+el8+2+685cfb38.x86_64
+mysql-libs-8.0.26-1.module+el8+2+685cfb38.x86_64
+mysql-server-8.0.26-1.module+el8+2+685cfb38.x86_64
+mysql-test-8.0.26-1.module+el8+2+685cfb38.x86_64

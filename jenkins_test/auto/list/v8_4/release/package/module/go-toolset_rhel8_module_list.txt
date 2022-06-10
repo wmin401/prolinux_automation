@@ -1,0 +1,12 @@
+[go-toolset:rhel8]
+delve-0:1.5.0-2.module+el8+4+7f3a1d48.x86_64
+delve-debuginfo-0:1.5.0-2.module+el8+4+7f3a1d48.x86_64
+delve-debugsource-0:1.5.0-2.module+el8+4+7f3a1d48.x86_64
+go-toolset-0:1.15.7-1.module+el8+4+7f3a1d48.x86_64
+golang-0:1.15.7-1.module+el8+4+7f3a1d48.x86_64
+golang-bin-0:1.15.7-1.module+el8+4+7f3a1d48.x86_64
+golang-docs-0:1.15.7-1.module+el8+4+7f3a1d48.noarch
+golang-misc-0:1.15.7-1.module+el8+4+7f3a1d48.noarch
+golang-race-0:1.15.7-1.module+el8+4+7f3a1d48.x86_64
+golang-src-0:1.15.7-1.module+el8+4+7f3a1d48.noarch
+golang-tests-0:1.15.7-1.module+el8+4+7f3a1d48.noarch

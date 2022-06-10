@@ -1,0 +1,8 @@
+[scala:2.10]
+hawtjni-runtime-0:1.16-1.module+el8+5+0996ba1a.noarch
+jansi-0:1.17.1-1.module+el8+5+0996ba1a.noarch
+jansi-native-0:1.7-5.module+el8+5+0996ba1a.x86_64
+jline-0:2.14.6-2.module+el8+5+0996ba1a.noarch
+scala-0:2.10.6-14.module+el8+5+0996ba1a.noarch
+scala-apidoc-0:2.10.6-14.module+el8+5+0996ba1a.noarch
+scala-swing-0:2.10.6-14.module+el8+5+0996ba1a.noarch

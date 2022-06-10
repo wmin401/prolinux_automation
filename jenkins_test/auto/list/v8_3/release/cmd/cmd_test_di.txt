@@ -1,0 +1,6 @@
+/usr/bin/anaconda-cleanup
+/usr/bin/anaconda-disable-nm-ibft-plugin
+/usr/bin/analog
+/usr/bin/instperf
+/usr/sbin/anaconda
+/usr/sbin/handle-sshpw

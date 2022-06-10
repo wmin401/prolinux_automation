@@ -1,0 +1,8 @@
+[nodejs:14]
+nodejs-14.17.5-1.module+el8+34+60b1d1ef.x86_64
+nodejs-devel-14.17.5-1.module+el8+34+60b1d1ef.x86_64
+nodejs-docs-14.17.5-1.module+el8+34+60b1d1ef.noarch
+nodejs-full-i18n-14.17.5-1.module+el8+34+60b1d1ef.x86_64
+nodejs-nodemon-2.0.3-1.module+el8+34+60b1d1ef.noarch
+nodejs-packaging-23-3.module+el8+34+60b1d1ef.noarch
+npm-6.14.14-1.14.17.5.1.module+el8+34+60b1d1ef.x86_64

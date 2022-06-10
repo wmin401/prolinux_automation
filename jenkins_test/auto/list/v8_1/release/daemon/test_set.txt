@@ -1,0 +1,11 @@
+/usr/lib/systemd/system/anaconda-direct.service
+/usr/lib/systemd/system/anaconda-nm-config.service
+/usr/lib/systemd/system/anaconda-noshell.service
+/usr/lib/systemd/system/anaconda-pre.service
+/usr/lib/systemd/system/anaconda-shell@.service
+/usr/lib/systemd/system/anaconda-sshd.service
+/usr/lib/systemd/system/anaconda-tmux@.service
+/usr/lib/systemd/system/anaconda.service
+/usr/lib/systemd/system/anaconda.target
+/usr/lib/systemd/system/instperf.service
+/usr/lib/systemd/system/zram.service

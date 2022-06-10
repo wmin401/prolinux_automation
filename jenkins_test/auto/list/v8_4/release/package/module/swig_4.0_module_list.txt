@@ -1,0 +1,6 @@
+[swig:4.0]
+swig-0:4.0.2-3.module+el8+3+bf8f955e.x86_64
+swig-debuginfo-0:4.0.2-3.module+el8+3+bf8f955e.x86_64
+swig-debugsource-0:4.0.2-3.module+el8+3+bf8f955e.x86_64
+swig-doc-0:4.0.2-3.module+el8+3+bf8f955e.noarch
+swig-gdb-0:4.0.2-3.module+el8+3+bf8f955e.x86_64

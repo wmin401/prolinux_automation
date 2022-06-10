@@ -1,0 +1,7 @@
+[389-ds:1.4]
+389-ds-base-1.4.3.23-10.module+el8+4+57f26701.x86_64
+389-ds-base-devel-1.4.3.23-10.module+el8+4+57f26701.x86_64
+389-ds-base-legacy-tools-1.4.3.23-10.module+el8+4+57f26701.x86_64
+389-ds-base-libs-1.4.3.23-10.module+el8+4+57f26701.x86_64
+389-ds-base-snmp-1.4.3.23-10.module+el8+4+57f26701.x86_64
+python3-lib389-1.4.3.23-10.module+el8+4+57f26701.noarch

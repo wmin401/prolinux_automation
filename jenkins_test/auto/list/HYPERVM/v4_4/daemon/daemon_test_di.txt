@@ -1,0 +1,4 @@
+/usr/lib/systemd/system/ovirt-websocket-proxy.service
+/usr/lib/systemd/system/ovirt-engine.service
+/usr/lib/systemd/system/ovirt-engine-notifier.service
+/usr/lib/systemd/system/ovirt-fence-kdump-listener.service

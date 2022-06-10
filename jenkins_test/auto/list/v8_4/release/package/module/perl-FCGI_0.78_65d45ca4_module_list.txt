@@ -1,0 +1,5 @@
+[perl-FCGI:0.78]
+Conditions=(R)perl,(e)perl:5.30,
+perl-FCGI-1:0.78-11.module+el8+195+65d45ca4.x86_64
+perl-FCGI-debuginfo-1:0.78-11.module+el8+195+65d45ca4.x86_64
+perl-FCGI-debugsource-1:0.78-11.module+el8+195+65d45ca4.x86_64

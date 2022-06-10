@@ -1,0 +1,12 @@
+[389-ds:1.4]
+389-ds-base-0:1.4.3.16-13.module+el8+3+31befe63.x86_64
+389-ds-base-debuginfo-0:1.4.3.16-13.module+el8+3+31befe63.x86_64
+389-ds-base-debugsource-0:1.4.3.16-13.module+el8+3+31befe63.x86_64
+389-ds-base-devel-0:1.4.3.16-13.module+el8+3+31befe63.x86_64
+389-ds-base-legacy-tools-0:1.4.3.16-13.module+el8+3+31befe63.x86_64
+389-ds-base-legacy-tools-debuginfo-0:1.4.3.16-13.module+el8+3+31befe63.x86_64
+389-ds-base-libs-0:1.4.3.16-13.module+el8+3+31befe63.x86_64
+389-ds-base-libs-debuginfo-0:1.4.3.16-13.module+el8+3+31befe63.x86_64
+389-ds-base-snmp-0:1.4.3.16-13.module+el8+3+31befe63.x86_64
+389-ds-base-snmp-debuginfo-0:1.4.3.16-13.module+el8+3+31befe63.x86_64
+python3-lib389-0:1.4.3.16-13.module+el8+3+31befe63.noarch

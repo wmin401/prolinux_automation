@@ -1,0 +1,4 @@
+[perl-YAML:1.24]
+Conditions=(R)perl,(e)perl:5.30,
+perl-YAML-0:1.24-3.module+el8+4+bd185cf7.noarch
+

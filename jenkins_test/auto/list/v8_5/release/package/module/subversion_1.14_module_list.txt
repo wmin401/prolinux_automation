@@ -1,0 +1,12 @@
+[subversion:1.14]
+libserf-1.3.9-9.module+el8+5+9558055c.x86_64
+mod_dav_svn-1.14.1-1.module+el8+5+9558055c.x86_64
+python3-subversion-1.14.1-1.module+el8+5+9558055c.x86_64
+subversion-1.14.1-1.module+el8+5+9558055c.x86_64
+subversion-devel-1.14.1-1.module+el8+5+9558055c.x86_64
+subversion-gnome-1.14.1-1.module+el8+5+9558055c.x86_64
+subversion-javahl-1.14.1-1.module+el8+5+9558055c.noarch
+subversion-libs-1.14.1-1.module+el8+5+9558055c.x86_64
+subversion-perl-1.14.1-1.module+el8+5+9558055c.x86_64
+subversion-tools-1.14.1-1.module+el8+5+9558055c.x86_64
+utf8proc-2.1.1-5.module+el8+5+9558055c.x86_64

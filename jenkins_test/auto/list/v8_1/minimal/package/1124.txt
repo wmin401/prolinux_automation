@@ -1,0 +1,11 @@
+acl-2.2.53-1.el8.x86_64
+audit-3.0-0.13.20190507gitf58ec40.el8.x86_64
+audit-libs-3.0-0.13.20190507gitf58ec40.el8.x86_64
+authselect-1.1-2.el8.x86_64
+authselect-libs-1.1-2.el8.x86_64
+basesystem-11-5.el8.noarch
+bash-4.4.19-10.el8.x86_64
+bind-export-libs-9.11.4-26.P2.el8.x86_64
+biosdevname-0.7.3-2.el8.x86_64
+brotli-1.0.6-1.el8.x86_64
+bzip2-libs-1.0.6-26.el8.x86_64

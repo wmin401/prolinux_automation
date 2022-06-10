@@ -1,0 +1,14 @@
+[perl-IO-Socket-SSL:2.066]
+Conditions=(R)perl,(e)perl:5.30,
+perl-IO-Socket-SSL-0:2.066-4.module+el8+195+28f0c518.noarch
+perl-IO-Tty-debuginfo-0:1.12-11.module+el8+195+28f0c518.x86_64
+perl-IO-Tty-debugsource-0:1.12-11.module+el8+195+28f0c518.x86_64
+perl-Net-IDN-Encode-debuginfo-0:2.400-8.module+el8+195+28f0c518.x86_64
+perl-Net-IDN-Encode-debugsource-0:2.400-8.module+el8+195+28f0c518.x86_64
+perl-Net-LibIDN-debuginfo-0:0.12-35.module+el8+195+28f0c518.x86_64
+perl-Net-LibIDN-debugsource-0:0.12-35.module+el8+195+28f0c518.x86_64
+perl-Net-SSLeay-0:1.88-1.module+el8+195+28f0c518.x86_64
+perl-Net-SSLeay-debuginfo-0:1.88-1.module+el8+195+28f0c518.x86_64
+perl-Net-SSLeay-debugsource-0:1.88-1.module+el8+195+28f0c518.x86_64
+perl-Socket6-debuginfo-0:0.28-6.module+el8+195+28f0c518.x86_64
+perl-Socket6-debugsource-0:0.28-6.module+el8+195+28f0c518.x86_64

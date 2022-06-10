@@ -1,0 +1,17 @@
+[postgresql:12]
+pg_repack-1.4.6-3.module+el8+119+aa6e1aec.x86_64
+pgaudit-1.4.0-5.module+el8+119+aa6e1aec.x86_64
+postgres-decoderbufs-0.10.0-2.module+el8+119+aa6e1aec.x86_64
+postgresql-12.7-2.module+el8+119+aa6e1aec.x86_64
+postgresql-contrib-12.7-2.module+el8+119+aa6e1aec.x86_64
+postgresql-docs-12.7-2.module+el8+119+aa6e1aec.x86_64
+postgresql-plperl-12.7-2.module+el8+119+aa6e1aec.x86_64
+postgresql-plpython3-12.7-2.module+el8+119+aa6e1aec.x86_64
+postgresql-pltcl-12.7-2.module+el8+119+aa6e1aec.x86_64
+postgresql-server-12.7-2.module+el8+119+aa6e1aec.x86_64
+postgresql-server-devel-12.7-2.module+el8+119+aa6e1aec.x86_64
+postgresql-static-12.7-2.module+el8+119+aa6e1aec.x86_64
+postgresql-test-12.7-2.module+el8+119+aa6e1aec.x86_64
+postgresql-test-rpm-macros-12.7-2.module+el8+119+aa6e1aec.noarch
+postgresql-upgrade-12.7-2.module+el8+119+aa6e1aec.x86_64
+postgresql-upgrade-devel-12.7-2.module+el8+119+aa6e1aec.x86_64

@@ -1,0 +1,8 @@
+/usr/lib/systemd/system/auditd.service
+/usr/lib/systemd/system/chrony-wait.service
+/usr/lib/systemd/system/chronyd.service
+/usr/lib/systemd/system/dbus.service
+/usr/lib/systemd/system/dbus.socket
+/usr/lib/systemd/system/dm-event.service
+/usr/lib/systemd/system/dm-event.socket
+/usr/lib/systemd/system/dnf-makecache.service

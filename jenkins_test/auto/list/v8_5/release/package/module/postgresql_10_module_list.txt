@@ -1,0 +1,14 @@
+[postgresql:10]
+postgresql-10.17-2.module+el8+118+82b19450.x86_64
+postgresql-contrib-10.17-2.module+el8+118+82b19450.x86_64
+postgresql-docs-10.17-2.module+el8+118+82b19450.x86_64
+postgresql-plperl-10.17-2.module+el8+118+82b19450.x86_64
+postgresql-plpython3-10.17-2.module+el8+118+82b19450.x86_64
+postgresql-pltcl-10.17-2.module+el8+118+82b19450.x86_64
+postgresql-server-10.17-2.module+el8+118+82b19450.x86_64
+postgresql-server-devel-10.17-2.module+el8+118+82b19450.x86_64
+postgresql-static-10.17-2.module+el8+118+82b19450.x86_64
+postgresql-test-10.17-2.module+el8+118+82b19450.x86_64
+postgresql-test-rpm-macros-10.17-2.module+el8+118+82b19450.x86_64
+postgresql-upgrade-10.17-2.module+el8+118+82b19450.x86_64
+postgresql-upgrade-devel-10.17-2.module+el8+118+82b19450.x86_64

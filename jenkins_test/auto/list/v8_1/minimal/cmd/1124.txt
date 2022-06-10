@@ -1,0 +1,11 @@
+/usr/bin/chacl
+/usr/bin/getfacl
+/usr/bin/setfacl
+/sbin/auditctl
+/sbin/auditd
+/sbin/augenrules
+/sbin/aureport
+/sbin/ausearch
+/sbin/autrace
+/usr/bin/aulast
+/usr/bin/aulastlog

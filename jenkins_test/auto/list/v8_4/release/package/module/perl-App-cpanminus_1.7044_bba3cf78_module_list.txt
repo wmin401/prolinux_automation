@@ -1,0 +1,10 @@
+[perl-App-cpanminus:1.7044]
+Conditions=(R)perl-YAML,(e)perl-YAML,(R)perl,(e)perl:5.24,
+perl-App-cpanminus-0:1.7044-5.module+el8+195+bba3cf78.noarch
+perl-CPAN-DistnameInfo-0:0.12-13.module+el8+195+bba3cf78.noarch
+perl-CPAN-Meta-Check-0:0.014-6.module+el8+195+bba3cf78.noarch
+perl-File-pushd-0:1.014-6.module+el8+195+bba3cf78.noarch
+perl-Module-CPANfile-0:1.1002-7.module+el8+195+bba3cf78.noarch
+perl-Parse-PMFile-0:0.41-7.module+el8+195+bba3cf78.noarch
+perl-String-ShellQuote-0:1.04-24.module+el8+195+bba3cf78.noarch
+

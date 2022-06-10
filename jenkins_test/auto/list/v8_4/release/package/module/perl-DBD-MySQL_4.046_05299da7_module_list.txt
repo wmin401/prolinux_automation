@@ -1,0 +1,5 @@
+[perl-DBD-MySQL:4.046]
+Conditions=(R)perl-DBI,(e)perl-DBI:1.641,(R)perl,(e)perl:5.24,
+perl-DBD-MySQL-0:4.046-3.module+el8+195+05299da7.x86_64
+perl-DBD-MySQL-debuginfo-0:4.046-3.module+el8+195+05299da7.x86_64
+perl-DBD-MySQL-debugsource-0:4.046-3.module+el8+195+05299da7.x86_64

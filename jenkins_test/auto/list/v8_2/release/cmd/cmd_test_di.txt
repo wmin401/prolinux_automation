@@ -1,0 +1,6 @@
+/usr/bin/designer-qt5
+/usr/lib64/qt5/bin/designer
+/usr/lib64/qt5/bin/designer-qt5
+/usr/bin/linguist-qt5
+/usr/lib64/qt5/bin/linguist
+/usr/lib64/qt5/bin/linguist-qt5

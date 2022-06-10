@@ -1,0 +1,6 @@
+[perl-DBD-SQLite:1.58]
+Conditions=(R)perl-DBI,(e)perl-DBI:1.641,(R)perl,(e)perl:5.24,
+perl-DBD-SQLite-0:1.58-2.module+el8+195+7dc91822.x86_64
+perl-DBD-SQLite-debuginfo-0:1.58-2.module+el8+195+7dc91822.x86_64
+perl-DBD-SQLite-debugsource-0:1.58-2.module+el8+195+7dc91822.x86_64
+

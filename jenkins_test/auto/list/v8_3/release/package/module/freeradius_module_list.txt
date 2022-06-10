@@ -1,0 +1,14 @@
+[freeradius]
+freeradius-3.0.20-3.module+el8+67+ce55bf2b.x86_64
+freeradius-devel-3.0.20-3.module+el8+67+ce55bf2b.x86_64
+freeradius-doc-3.0.20-3.module+el8+67+ce55bf2b.x86_64
+freeradius-krb5-3.0.20-3.module+el8+67+ce55bf2b.x86_64
+freeradius-ldap-3.0.20-3.module+el8+67+ce55bf2b.x86_64
+freeradius-mysql-3.0.20-3.module+el8+67+ce55bf2b.x86_64
+freeradius-perl-3.0.20-3.module+el8+67+ce55bf2b.x86_64
+freeradius-postgresql-3.0.20-3.module+el8+67+ce55bf2b.x86_64
+freeradius-rest-3.0.20-3.module+el8+67+ce55bf2b.x86_64
+freeradius-sqlite-3.0.20-3.module+el8+67+ce55bf2b.x86_64
+freeradius-unixODBC-3.0.20-3.module+el8+67+ce55bf2b.x86_64
+freeradius-utils-3.0.20-3.module+el8+67+ce55bf2b.x86_64
+python3-freeradius-3.0.20-3.module+el8+67+ce55bf2b.x86_64

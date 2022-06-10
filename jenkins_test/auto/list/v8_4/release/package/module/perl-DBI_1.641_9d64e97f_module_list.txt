@@ -1,0 +1,6 @@
+[perl-DBI:1.641]
+Conditions=(R)perl,(e)perl:5.24,
+perl-DBI-0:1.641-3.module+el8+195+9d64e97f.x86_64
+perl-DBI-debuginfo-0:1.641-3.module+el8+195+9d64e97f.x86_64
+perl-DBI-debugsource-0:1.641-3.module+el8+195+9d64e97f.x86_64
+

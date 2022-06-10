@@ -1,0 +1,4 @@
+[mod_auth_openidc:2.3]
+cjose-0.6.1-2.module+el8+67+222e02fc.x86_64
+cjose-devel-0.6.1-2.module+el8+67+222e02fc.x86_64
+mod_auth_openidc-2.3.7-4.module+el8+67+222e02fc.3.x86_64

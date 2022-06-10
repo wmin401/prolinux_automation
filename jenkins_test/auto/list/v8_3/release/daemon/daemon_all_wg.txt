@@ -1,0 +1,2 @@
+/usr/lib/systemd/system/cpupower.service
+/usr/lib/systemd/system/kvm_stat.service

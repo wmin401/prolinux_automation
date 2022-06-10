@@ -1,0 +1,1 @@
+/usr/sbin/ds_selinux_enabled

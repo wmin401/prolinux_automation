@@ -1,0 +1,9 @@
+[nginx:1.16]
+nginx-1.16.1-1.module+el8+195+c14cecae.x86_64
+nginx-all-modules-1.16.1-1.module+el8+195+c14cecae.noarch
+nginx-filesystem-1.16.1-1.module+el8+195+c14cecae.noarch
+nginx-mod-http-image-filter-1.16.1-1.module+el8+195+c14cecae.x86_64
+nginx-mod-http-perl-1.16.1-1.module+el8+195+c14cecae.x86_64
+nginx-mod-http-xslt-filter-1.16.1-1.module+el8+195+c14cecae.x86_64
+nginx-mod-mail-1.16.1-1.module+el8+195+c14cecae.x86_64
+nginx-mod-stream-1.16.1-1.module+el8+195+c14cecae.x86_64

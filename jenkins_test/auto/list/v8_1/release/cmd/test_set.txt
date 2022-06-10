@@ -1,0 +1,12 @@
+/usr/bin/anaconda-cleanup
+/usr/bin/anaconda-disable-nm-ibft-plugin
+/usr/bin/analog
+/usr/bin/instperf
+/usr/bin/liveinst
+/usr/sbin/anaconda
+/usr/sbin/handle-sshpw
+/usr/sbin/liveinst
+/usr/bin/nm-applet
+/usr/bin/nm-connection-editor
+/usr/sbin/sosreport
+/usr/sbin/sos-audit.sh

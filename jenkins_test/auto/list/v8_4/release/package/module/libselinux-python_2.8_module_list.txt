@@ -1,0 +1,5 @@
+[libselinux-python:2.8]
+Conditions=(R)python27,(e)python27:2.7,
+libselinux-debuginfo-0:2.9-2.1.module+el8+67+c294f927.x86_64
+libselinux-python-0:2.9-2.1.module+el8+67+c294f927.x86_64
+libselinux-python-debuginfo-0:2.9-2.1.module+el8+67+c294f927.x86_64

@@ -1,0 +1,2 @@
+/usr/lib/systemd/system/netconsole.service
+/usr/lib/systemd/system/openhpid.service

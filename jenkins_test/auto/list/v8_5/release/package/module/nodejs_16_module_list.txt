@@ -1,0 +1,8 @@
+[nodejs:16]
+nodejs-16.8.0-1.module+el8+35+90be3b42.x86_64
+nodejs-devel-16.8.0-1.module+el8+35+90be3b42.x86_64
+nodejs-docs-16.8.0-1.module+el8+35+90be3b42.noarch
+nodejs-full-i18n-16.8.0-1.module+el8+35+90be3b42.x86_64
+nodejs-nodemon-2.0.7-1.module+el8+35+90be3b42.noarch
+nodejs-packaging-25-1.module+el8+35+90be3b42.noarch
+npm-7.21.0-1.16.8.0.1.module+el8+35+90be3b42.x86_64

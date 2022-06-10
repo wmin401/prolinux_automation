@@ -1,0 +1,8 @@
+[squid:4]
+libecap-0:1.0.1-2.module+el8+3+2cb3b87b.x86_64
+libecap-debuginfo-0:1.0.1-2.module+el8+3+2cb3b87b.x86_64
+libecap-debugsource-0:1.0.1-2.module+el8+3+2cb3b87b.x86_64
+libecap-devel-0:1.0.1-2.module+el8+3+2cb3b87b.x86_64
+squid-7:4.11-4.module+el8+3+2cb3b87b.x86_64
+squid-debuginfo-7:4.11-4.module+el8+3+2cb3b87b.x86_64
+squid-debugsource-7:4.11-4.module+el8+3+2cb3b87b.x86_64

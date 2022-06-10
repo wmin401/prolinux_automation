@@ -1,0 +1,5 @@
+[mailman:2.1]
+Conditions=(R)python27,(e)python27:2.7,
+mailman-3:2.1.29-11.module+el8+4+702b4d5a.x86_64
+mailman-debuginfo-3:2.1.29-11.module+el8+4+702b4d5a.x86_64
+mailman-debugsource-3:2.1.29-11.module+el8+4+702b4d5a.x86_64

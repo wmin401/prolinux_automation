@@ -1,0 +1,17 @@
+[container-tools:1.0]
+Conditions=(r)buildah,(r)podman,(r)cockpit-podman
+buildah-1.5-8.gite94b4f9.module+el8+67+4b73b65f.x86_64
+containernetworking-plugins-0.7.4-4.git9ebe139.module+el8+67+4b73b65f.x86_64
+containers-common-0.1.32-6.git1715c90.module+el8+67+4b73b65f.x86_64
+container-selinux-2.124.0-1.gitf958d0c.module+el8+67+4b73b65f.noarch
+crit-3.12-9.module+el8+67+4b73b65f.x86_64
+criu-3.12-9.module+el8+67+4b73b65f.x86_64
+fuse-overlayfs-0.3-5.module+el8+67+4b73b65f.x86_64
+oci-systemd-hook-0.1.15-2.git2d0b8a3.module+el8+67+4b73b65f.x86_64
+oci-umount-2.3.4-2.git87f9237.module+el8+67+4b73b65f.x86_64
+podman-1.0.0-6.git921f98f.module+el8+67+4b73b65f.x86_64
+podman-docker-1.0.0-6.git921f98f.module+el8+67+4b73b65f.noarch
+python3-criu-3.12-9.module+el8+67+4b73b65f.x86_64
+runc-1.0.0-56.rc5.dev.git2abd837.module+el8+67+4b73b65f.x86_64
+skopeo-0.1.32-6.git1715c90.module+el8+67+4b73b65f.x86_64
+slirp4netns-0.1-5.dev.gitc4e1bc5.module+el8+67+4b73b65f.x86_64

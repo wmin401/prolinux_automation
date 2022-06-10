@@ -1,0 +1,5 @@
+[inkscape]
+inkscape-0.92.3-12.module+el8+67+76e5e9f7.x86_64
+inkscape-docs-0.92.3-12.module+el8+67+76e5e9f7.x86_64
+inkscape-view-0.92.3-12.module+el8+67+76e5e9f7.x86_64
+python2-scour-0.35-9.module+el8+67+76e5e9f7.noarch

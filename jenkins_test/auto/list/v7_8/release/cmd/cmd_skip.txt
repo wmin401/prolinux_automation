@@ -1,0 +1,6 @@
+/usr/libexec/perf-core/scripts/perl/bin/check-perf-trace-record
+/usr/libexec/perf-core/scripts/perl/bin/failed-syscalls-record
+/usr/libexec/perf-core/scripts/python/bin/failed-syscalls-by-pid-record
+/usr/libexec/perf-core/scripts/python/bin/sctop-record
+/usr/libexec/perf-core/scripts/python/bin/syscall-counts-by-pid-record
+/usr/libexec/perf-core/scripts/python/bin/syscall-counts-record
